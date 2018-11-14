@@ -22,6 +22,12 @@ public class DemoApplication {
         System.out.println(service.getAllStudentData());
 	   System.out.println(service.registerStudent(11, "ravi", "delhi"));
 	    System.out.println(service.fetchStudent(11));
+ System.out.println(service.registerStudent(11, "ravi", "delhi"));
+	    System.out.println(service.fetchStudent(11));
+ System.out.println(service.registerStudent(11, "ravi", "delhi"));
+	    System.out.println(service.fetchStudent(11));
+ System.out.println(service.registerStudent(11, "ravi", "delhi"));
+	    System.out.println(service.fetchStudent(11));
 		//System.out.println(service.remove(6));
 		//System.out.println(service.updateName("ajay",4));
 		
