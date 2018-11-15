@@ -11,7 +11,7 @@ class Test
         arrL.add(3); 
         arrL.add(4); 
   
-        
+        System.out.println("hello this is lamda Expression");
         arrL.forEach(n -> System.out.println(n)); 
   
        
