@@ -15,6 +15,6 @@ class Test
         arrL.forEach(n -> System.out.println(n)); 
   
        
-        arrL.forEach(n -> { if (n%2 == 0) System.out.println(n); }); 
+        arrL.forEach(n -> { if (n%3 == 0) System.out.println(n); }); 
     } 
 } 
