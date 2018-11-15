@@ -11,7 +11,7 @@ class Test
         arrL.add(3); 
         arrL.add(4); 
   
-        System.out.println("Hello This is not Lambda file");
+        System.out.println("Hello This is  Lambda file");
         arrL.forEach(n -> System.out.println(n)); 
   
        
